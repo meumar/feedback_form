@@ -1,0 +1,90 @@
+ [
+            {
+                "customer_name":"Umar",
+                "customer_phonenumber":"1234567890",
+                "id": 1,
+                "text": "How was your experience in our store?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "excellent"
+            },
+            {
+                "customer_name":"mani",
+                "customer_phonenumber":"1234567890",
+                "id": 2,
+                "text": "How about the customer service?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "good"
+            },
+            {
+                "id": 3,
+                "text": "How do you feel about the freshness of the fruits?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "average"
+            },
+            {
+                "id": 4,
+                "text": "How about the price of the fruits?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "bad"
+            },
+            {
+                "id": 5,
+                "text": "How about the cleaniness of the store?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "very bad"
+            },
+            {
+                "id": 6,
+                "text": "How about the timings of the store?",
+                "options": [
+                    "excellent",
+                    "good",
+                    "average",
+                    "bad",
+                    "very bad",
+                    "resonable",
+                    "costly"
+                ],
+                "answer": "very bad"
+            }
+        ]
